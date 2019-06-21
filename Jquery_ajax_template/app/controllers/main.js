@@ -3,9 +3,9 @@ $(document).ready(function(){
     var nguoiDungService = new NguoiDungService();
 
     function themNguoiDung(){
-        console.log("THEM THANH CONG");
+        console.log("THEM NGUOI DUNG");
         
-    };
+    }
 
     //Goi ham lay api
     getDanhSachNguoiDung();
