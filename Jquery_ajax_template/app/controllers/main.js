@@ -2,6 +2,11 @@ $(document).ready(function(){
 
     var nguoiDungService = new NguoiDungService();
 
+    function themNguoiDung(){
+        console.log("THEM THANH CONG");
+        
+    };
+
     //Goi ham lay api
     getDanhSachNguoiDung();
     
