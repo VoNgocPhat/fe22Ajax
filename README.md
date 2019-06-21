@@ -10,3 +10,6 @@ git add. : Add tất cả
 git commit -m "<Câu ghi chú>" => Đang ở vùng Local Repository
 
 git push origin master => Đẩy code lên trên Sever
+
+git branch => Kiểm tra có bao nhiêu branch, đang đứng tại branch nào
+git brach <Tên branch> => Tạo Branch
