@@ -13,3 +13,6 @@ git push origin master => Đẩy code lên trên Sever
 
 git branch => Kiểm tra có bao nhiêu branch, đang đứng tại branch nào
 git brach <Tên branch> => Tạo Branch
+
+git pull => Kéo code về
+git merge <Tên Nhánh> => Nó sẽ merge code từ <Tên Nhánh> vào nhánh mà mình đang đứng
